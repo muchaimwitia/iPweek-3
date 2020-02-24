@@ -4,7 +4,7 @@ body{
   font-family: 'Yantramanav', sans-serif;
 }
 .back{
-  background-image: url(../css/h_img.jpg);
+  background-image: url(../IP3/assets/logo/h_img.jpg);
   background-size: 100%;
   background-repeat: no-repeat;
   height: 600px;
@@ -46,131 +46,131 @@ body{
   position: relative;
 }
 .what{
-    text-align: center;
+  text-align: center;
 }
 .col-md-4 {
-    text-align: center;
+  text-align: center;
 }
 #content {
-    display: none;
+  display: none;
 }
 .contact{
-    background-image: url(../IP3/assets/backgrounds/c_image.jpg);
-    background-size: cover;
-    height: 480px;
-    position: relative;
-    padding: 90px;
-    text-align: center;
+  background-image: url(../IP3/assets/backgrounds/c_image.jpg);
+  background-size: cover;
+  height: 480px;
+  position: relative;
+  padding: 90px;
+  text-align: center;
 }
 #dev-content{
-    display: none;
+  display: none;
 }
 #prod-content{
-    display: none;
+  display: none;
 }
 .portfolio h5{
-    text-align: center;
+  text-align: center;
 }
 .portfolio{
-    margin-left: 10px;
-    margin-right: 15px;
+  margin-left: 10px;
+  margin-right: 15px;
 }
 .contact h5{
-    text-align: center;
-    color: #fff;
+  text-align: center;
+  color: #fff;
 }
 .contact input[type="text"]{
-    border-bottom: 1px solid #fff;
-    background: transparent;
-    outline: none;
-    height: 40px;
-    color: #fff;
-    font-size: 16px;
+  border-bottom: 1px solid #fff;
+  background: transparent;
+  outline: none;
+  height: 40px;
+  color: #fff;
+  font-size: 16px;
 }
 .contact input[type="email"]{
-    border-bottom: 1px solid #fff;
-    background: transparent;
-    outline: none;
-    height: 40px;
-    color: #fff;
-    font-size: 16px;
+  border-bottom: 1px solid #fff;
+  background: transparent;
+  outline: none;
+  height: 40px;
+  color: #fff;
+  font-size: 16px;
 }
 .put{
-   text-align: center;
+ text-align: center;
 }
 ::placeholder {  
-    color: white; 
+  color: white; 
 } 
 #message{
-    margin-left: 120px;
+  margin-left: 120px;
 }
 .end{
-    text-align: center;
+  text-align: center;
 }
 .icon{
-    margin-left: 270px;
+  margin-left: 270px;
 }
 textarea{
-    background: transparent;
-    color: #fff;
+  background: transparent;
+  color: #fff;
 }
 #text1{
-    display: none;
-    position: absolute;
-    top: 20%;
-    left: 10%;
-    height: 100;
-    color: #fff;
+  display: none;
+  position: absolute;
+  top: 20%;
+  left: 10%;
+  height: 100;
+  color: #fff;
 }
 #text2{
-    display: none;
-    position: absolute;
-    top: 20%;
-    left: 10%;
-    height: 100;
+  display: none;
+  position: absolute;
+  top: 20%;
+  left: 10%;
+  height: 100;
 }
 #text3{
-    display: none;
-    position: absolute;
-    top: 20%;
-    left: 10%;
-    height: 100;
+  display: none;
+  position: absolute;
+  top: 20%;
+  left: 10%;
+  height: 100;
 }
 #text4{
-    display: none;
-    position: absolute;
-    top: 20%;
-    left: 10%;
-    height: 100;
+  display: none;
+  position: absolute;
+  top: 20%;
+  left: 10%;
+  height: 100;
 }
 #text5{
-    display: none;
-    position: absolute;
-    top: 20%;
-    left: 10%;
-    height: 100;
+  display: none;
+  position: absolute;
+  top: 20%;
+  left: 10%;
+  height: 100;
 }
 #text6{
-    display: none;
-    position: absolute;
-    top: 20%;
-    left: 10%;
-    height: 100;
+  display: none;
+  position: absolute;
+  top: 20%;
+  left: 10%;
+  height: 100;
 }
 #text7{
-    display: none;
-    position: absolute;
-    top: 20%;
-    left: 10%;
-    height: 100;
+  display: none;
+  position: absolute;
+  top: 20%;
+  left: 10%;
+  height: 100;
 }
 #text8{
-    display: none;
-    position: absolute;
-    top: 20%;
-    left: 10%;
-    height: 100;
+  display: none;
+  position: absolute;
+  top: 20%;
+  left: 10%;
+  height: 100;
 }
 .fade{
-    opacity: 0;
+  opacity: 0;
 }
