@@ -10,7 +10,7 @@ This is a web application that modifies and styles a fictional studio
 |Form to be filled| User enters required credentials| Dialog box with respective name|
 ## Setup/Installation Requirements
 * Create an account on Github
-* Fork the repository from Github:[https://github.com/Arthur-Ochieng/Delani-Studio](https://github.com/Arthur-Ochieng/Delani-Studio)
+* Fork the repository from Github:https://muchaimwitia.github.io/iPweek-3/.
 * Clone the link
 * Open the link from where the repository is saved
 ## Known Bugs
@@ -24,6 +24,6 @@ None.
 ## Live site
 https://muchaimwitia.github.io/iPweek-3/.
 ## Support and contact details
-You can get to me through johnarthur016@gmail.com.
+You can get to me through muchairiungu@gmail.com
 ### License.
 MIT Copyright (c) 2020 **[MITlicense](LICENSE)**
