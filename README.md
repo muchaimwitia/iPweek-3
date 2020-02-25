@@ -9,7 +9,7 @@ This is a web application that modifies and styles a fictional studio
 |:--------|:-----|:------|
 |Form to be filled| User enters required credentials| Dialog box with respective name|
 ## Setup/Installation Requirements
-* Create an account on Github
+* Create an account on Github website
 * Fork the repository from Github:https://muchaimwitia.github.io/iPweek-3/.
 * Clone the link
 * Open the link from where the repository is saved
